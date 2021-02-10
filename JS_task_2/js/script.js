@@ -1,3 +1,5 @@
+//Working with variables
+
 let admin,
     name;
 
