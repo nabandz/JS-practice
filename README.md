@@ -76,5 +76,5 @@ __Task:__ 18
 
 ## Objects: the basics
 
-4.1 [Objects](https://javascript.info/object)
+4.1 [Objects](https://javascript.info/object)   
 __Tasks:__ 19, 20, 21, 22
