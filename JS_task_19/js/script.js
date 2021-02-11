@@ -1,39 +1,16 @@
-//Bad style
+//Hello, object
 
-/* function pow(x,n)
-{
-  let result=1;
-  for(let i=0;i<n;i++) {result*=x;}
-  return result;
-}
+//Step 1
+let user = {};
 
-let x=prompt("x?",''), n=prompt("n?",'')
-if (n<=0)
-{
-  alert(`Power ${n} is not supported, please enter an integer number greater than zero`);
-}
-else
-{
-  alert(pow(x,n))
-} */
+//Step 2
+user.name = "John";
 
-function pow(x, n) {
-  let result = 1;
+//Step 3
+user.surname = "Smith";
 
-  for (let i = 0; i < n; i++) {
-    result *= x;
-  }
+//Step 4
+user.name = "Pete";
 
-  return result;
-}
-
-let x = prompt("x?", ''); 
-let n = prompt("n?", '');
-
-if (n <= 0) {
-  alert(`Power ${n} is not supported,
-    please enter an integer number greater than zero`);
-}
-else {
-  alert( pow(x, n) );
-}
+//Step 5
+delete user.name;
