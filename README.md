@@ -78,3 +78,10 @@ __Task:__ 18
 
 4.1 [Objects](https://javascript.info/object)   
 __Tasks:__ 19, 20, 21, 22
+
+4.2 [Object references and copying](https://javascript.info/object-copy)
+
+4.3 [Garbage collection](https://javascript.info/garbage-collection)
+
+4.4 [Object methods, "this"](https://javascript.info/object-methods)    
+__Tasks:__ 23, 24
