@@ -85,3 +85,11 @@ __Tasks:__ 19, 20, 21, 22
 
 4.4 [Object methods, "this"](https://javascript.info/object-methods)    
 __Tasks:__ 23, 24
+
+4.5 [Constructor, operator "new"](https://javascript.info/constructor-new)
+
+4.6 [Optional chaining '?.'](https://javascript.info/optional-chaining)
+
+4.7 [Symbol type](https://javascript.info/symbol)
+
+4.8 [Object to primitive conversion](https://javascript.info/object-toprimitive)
