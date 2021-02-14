@@ -86,7 +86,8 @@ __Tasks:__ 19, 20, 21, 22
 4.4 [Object methods, "this"](https://javascript.info/object-methods)    
 __Tasks:__ 23, 24
 
-4.5 [Constructor, operator "new"](https://javascript.info/constructor-new)
+4.5 [Constructor, operator "new"](https://javascript.info/constructor-new)    
+__Tasks:__ 25, 26
 
 4.6 [Optional chaining '?.'](https://javascript.info/optional-chaining)
 
