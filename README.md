@@ -94,3 +94,9 @@ __Tasks:__ 25, 26
 4.7 [Symbol type](https://javascript.info/symbol)
 
 4.8 [Object to primitive conversion](https://javascript.info/object-toprimitive)
+
+## Data types
+5.1 [Methods of primitives](https://javascript.info/primitives-methods)
+
+5.2 [Numbers](https://javascript.info/number)   
+__Tasks:__ 27, 28, 29, 30
