@@ -100,3 +100,6 @@ __Tasks:__ 25, 26
 
 5.2 [Numbers](https://javascript.info/number)   
 __Tasks:__ 27, 28, 29, 30
+
+5.3 [Strings](https://javascript.info/string)   
+__Tasks:__ 31, 32, 33, 34
