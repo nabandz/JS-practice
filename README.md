@@ -103,3 +103,6 @@ __Tasks:__ 27, 28, 29, 30
 
 5.3 [Strings](https://javascript.info/string)   
 __Tasks:__ 31, 32, 33, 34
+
+5.4 [Arrays](https://javascript.info/array)   
+__Tasks:__ 35, 36, 37
