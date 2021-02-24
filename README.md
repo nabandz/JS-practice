@@ -106,3 +106,6 @@ __Tasks:__ 31, 32, 33, 34
 
 5.4 [Arrays](https://javascript.info/array)   
 __Tasks:__ 35, 36, 37
+
+5.5 [Array methods](https://javascript.info/array-methods)   
+__Tasks:__ 38, 39, 40, 41, 42, 43, 44
