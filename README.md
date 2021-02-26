@@ -109,3 +109,5 @@ __Tasks:__ 35, 36, 37
 
 5.5 [Array methods](https://javascript.info/array-methods)   
 __Tasks:__ 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48
+
+5.6 [Iterables](https://javascript.info/iterable)   
