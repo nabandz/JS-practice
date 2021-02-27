@@ -1,19 +1,13 @@
 //Filter unique array members
 
 function unique(arr) {
-    let uniArray = [];
+    let uniSet = new Set(arr);
 
-    for (let word of arr) {
-        if (!uniArray.includes(word)) {
-            uniArray.push(word);
-        }
-    }
-
-    return uniArray;
+    return Array.from(uniSet);
 }
 
-let strings = ["Hare", "Krishna", "Hare", "Krishna",
+let values = ["Hare", "Krishna", "Hare", "Krishna",
   "Krishna", "Krishna", "Hare", "Hare", ":-O"
 ];
 
-alert( unique(strings) ); // Hare, Krishna, :-O
+alert( unique(values) ); // Hare, Krishna, :-O
