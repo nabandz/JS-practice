@@ -114,3 +114,5 @@ __Tasks:__ 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48
 
 5.7 [Map and Set](https://javascript.info/map-set)   
 __Task:__ 49
+
+5.8 [WeakMap and WeakSet](https://javascript.info/weakmap-weakset)   
