@@ -117,5 +117,8 @@ __Task:__ 49
 
 5.8 [WeakMap and WeakSet](https://javascript.info/weakmap-weakset)   
 
-5.9 [Object.keys, values, entries](https://javascript.info/keys-values-entries#tasks)   
+5.9 [Object.keys, values, entries](https://javascript.info/keys-values-entries)   
 __Tasks:__ 50, 51
+
+5.10 [Destructuring assignment](https://javascript.info/destructuring-assignment)   
+__Tasks:__ 52, 53
