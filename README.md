@@ -116,3 +116,6 @@ __Tasks:__ 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48
 __Task:__ 49
 
 5.8 [WeakMap and WeakSet](https://javascript.info/weakmap-weakset)   
+
+5.9 [Object.keys, values, entries](https://javascript.info/keys-values-entries#tasks)   
+__Tasks:__ 50, 51
