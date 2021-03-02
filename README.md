@@ -122,3 +122,5 @@ __Tasks:__ 50, 51
 
 5.10 [Destructuring assignment](https://javascript.info/destructuring-assignment)   
 __Tasks:__ 52, 53
+
+5.10 [Date and time](https://javascript.info/date)   
