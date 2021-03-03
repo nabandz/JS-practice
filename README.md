@@ -125,3 +125,6 @@ __Tasks:__ 52, 53
 
 5.11 [Date and time](https://javascript.info/date)   
 __Tasks:__ 54, 55, 56, 57, 58, 59, 60, 61
+
+5.12 [JSON methods, toJSON](https://javascript.info/json)   
+__Tasks:__ 62, 63
