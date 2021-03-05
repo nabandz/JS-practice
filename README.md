@@ -134,3 +134,5 @@ __Tasks:__ 62, 63
 
 6.1 [Recursion and stack](https://javascript.info/recursion)   
 __Tasks:__ 64, 65, 66, 67, 68
+
+6.2 [Rest parameters and spread syntax](https://javascript.info/rest-parameters-spread)   
