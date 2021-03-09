@@ -1,5 +1,5 @@
 # JavaScript Practice 
-***[The Modern JavaScript Tutorial](https://javascript.info/javascript-specials)***
+***[The Modern JavaScript Tutorial](https://javascript.info/)***
 
 ## An introduction
 
@@ -96,6 +96,7 @@ __Tasks:__ 25, 26
 4.8 [Object to primitive conversion](https://javascript.info/object-toprimitive)
 
 ## Data types
+
 5.1 [Methods of primitives](https://javascript.info/primitives-methods)
 
 5.2 [Numbers](https://javascript.info/number)   
@@ -128,3 +129,10 @@ __Tasks:__ 54, 55, 56, 57, 58, 59, 60, 61
 
 5.12 [JSON methods, toJSON](https://javascript.info/json)   
 __Tasks:__ 62, 63
+
+## Advanced working with functions
+
+6.1 [Recursion and stack](https://javascript.info/recursion)   
+__Tasks:__ 64, 65, 66, 67, 68
+
+6.2 [Rest parameters and spread syntax](https://javascript.info/rest-parameters-spread)   
