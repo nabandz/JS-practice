@@ -136,3 +136,6 @@ __Tasks:__ 62, 63
 __Tasks:__ 64, 65, 66, 67, 68
 
 6.2 [Rest parameters and spread syntax](https://javascript.info/rest-parameters-spread)   
+
+6.3 [Variable scope, closure](https://javascript.info/closure)   
+__Tasks:__ 69, 70, 71, 72
