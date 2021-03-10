@@ -139,3 +139,7 @@ __Tasks:__ 64, 65, 66, 67, 68
 
 6.3 [Variable scope, closure](https://javascript.info/closure)   
 __Tasks:__ 69, 70, 71, 72
+
+6.4 [The old "var"](https://javascript.info/var)   
+
+6.5 [Global object](https://javascript.info/global-object)   
