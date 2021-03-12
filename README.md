@@ -143,3 +143,11 @@ __Tasks:__ 69, 70, 71, 72
 6.4 [The old "var"](https://javascript.info/var)   
 
 6.5 [Global object](https://javascript.info/global-object)   
+
+6.6 [Function object, NFE](https://javascript.info/function-object)   
+__Task:__ 73
+
+6.7 [The "new Function" syntax](https://javascript.info/new-function)   
+
+6.8 [Scheduling: setTimeout and setInterval](https://javascript.info/settimeout-setinterval)   
+__Task:__ 74
