@@ -151,3 +151,5 @@ __Task:__ 73
 
 6.8 [Scheduling: setTimeout and setInterval](https://javascript.info/settimeout-setinterval)   
 __Task:__ 74
+
+6.9 [Decorators and forwarding, call/apply](https://javascript.info/new-function)     
