@@ -155,3 +155,5 @@ __Task:__ 74
 6.9 [Decorators and forwarding, call/apply](https://javascript.info/new-function)     
 
 6.10 [Function binding](https://javascript.info/bind)     
+
+6.11 [Arrow functions revisited](https://javascript.info/arrow-functions)     
