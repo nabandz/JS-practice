@@ -157,3 +157,8 @@ __Task:__ 74
 6.10 [Function binding](https://javascript.info/bind)     
 
 6.11 [Arrow functions revisited](https://javascript.info/arrow-functions)     
+
+## Object properties configuration
+
+7.1 [Property flags and descriptors](https://javascript.info/property-descriptors)     
+
