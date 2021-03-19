@@ -162,3 +162,4 @@ __Task:__ 74
 
 7.1 [Property flags and descriptors](https://javascript.info/property-descriptors)     
 
+7.2 [Property getters and setters](https://javascript.info/property-accessors)     
