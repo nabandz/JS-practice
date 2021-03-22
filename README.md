@@ -143,3 +143,27 @@ __Tasks:__ 69, 70, 71, 72
 6.4 [The old "var"](https://javascript.info/var)   
 
 6.5 [Global object](https://javascript.info/global-object)   
+
+6.6 [Function object, NFE](https://javascript.info/function-object)   
+__Task:__ 73
+
+6.7 [The "new Function" syntax](https://javascript.info/new-function)   
+
+6.8 [Scheduling: setTimeout and setInterval](https://javascript.info/settimeout-setinterval)   
+__Task:__ 74
+
+6.9 [Decorators and forwarding, call/apply](https://javascript.info/new-function)     
+
+6.10 [Function binding](https://javascript.info/bind)     
+
+6.11 [Arrow functions revisited](https://javascript.info/arrow-functions)     
+
+## Object properties configuration
+
+7.1 [Property flags and descriptors](https://javascript.info/property-descriptors)     
+
+7.2 [Property getters and setters](https://javascript.info/property-accessors)     
+
+## Prototypes, inheritance
+
+8.1 [Prototypal inheritance](https://javascript.info/prototype-inheritance)     
