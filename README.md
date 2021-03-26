@@ -168,3 +168,5 @@ __Tasks:__ 75, 76
 ## Prototypes, inheritance
 
 8.1 [Prototypal inheritance](https://javascript.info/prototype-inheritance)     
+
+8.2 [F.prototype](https://javascript.info/function-prototype)    
