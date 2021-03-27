@@ -170,3 +170,5 @@ __Tasks:__ 75, 76
 8.1 [Prototypal inheritance](https://javascript.info/prototype-inheritance)     
 
 8.2 [F.prototype](https://javascript.info/function-prototype)    
+
+8.3 [Native prototypes](https://javascript.info/native-prototypes)    
