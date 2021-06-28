@@ -1,5 +1,4 @@
-# JavaScript Practice 
-***[The Modern JavaScript Tutorial](https://javascript.info/)***
+## **[The Modern JavaScript Tutorial](https://javascript.info/)**
 
 ## An introduction
 
